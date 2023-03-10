@@ -1,0 +1,6 @@
+Fuel ID,Fuel Name,Fuel Type,Pollution Index,Price Per Unit ($/kW-hr)
+F001,Nuclear,Non-renewable,6,0.093
+F002,Coal,Non-renewable,9,0.12
+F003,Natural Gas,Non-renewable,8,0.05
+F004,Offshore Wind,Renewable,3,0.139
+F005,Hydro,Renewable,2,0.062
